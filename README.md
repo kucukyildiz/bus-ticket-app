@@ -1,4 +1,5 @@
 # Web Tabanlı Otobüs Bileti Satış Uygulaması
+<p align="center"> <img src="https://github.com/kucukyildiz/bus-ticket-app/blob/master/Ekran%20goruntu/logo2.png" width="50%" height="10%"> </p>
 
 ## Giriş
 Bu proje kapsamında, Umuttepe Turizm'in ihtiyaçlarına cevap verebilecek modern bir web tabanlı otobüs bileti satış uygulaması geliştirilmesi hedeflenmiştir. Bu uygulama, günümüz teknolojileriyle entegre edilmiş, kullanıcı dostu arayüzü ve güvenli altyapısıyla hem firma hem de müşterileri için önemli avantajlar sunacaktır.
@@ -18,9 +19,14 @@ Proje isterleri ihtiyaçları doğrultusunda geliştirilecek olan otobüs bileti
 Bu teknolojiler, proje için gerekli olan çeşitli işlevselliği sağlamak ve kullanıcıların etkileşimde bulunabileceği bir arayüz sunmak için bir araya getirilmiştir.
 
 ## Ekran Görüntüleri
+<img src="https://github.com/kucukyildiz/bus-ticket-app/blob/master/Ekran%20goruntu/screencapture-localhost-umuttepe-turizm-2024-03-29-08_47_51.jpg"  width="60%" height="30%">
+
+<img src="https://github.com/kucukyildiz/bus-ticket-app/blob/master/Ekran%20goruntu/screencapture-localhost-umuttepe-turizm-tiket-afterbeli-2024-03-29-08_58_21.jpg"  width="60%" height="30%">
+
+<img src="https://github.com/kucukyildiz/bus-ticket-app/blob/master/Ekran%20goruntu/screencapture-localhost-umuttepe-turizm-profile-tiketsaya-CA0025-2024-03-29-09_07_33.jpg"  width="60%" height="30%">
 
 ## Sonuç
 Sonuç olarak, Umuttepe Turizm'in otobüs bileti satış web uygulaması projesi, seyahat deneyimini geliştirmenin yanı sıra iş süreçlerini optimize etmeyi ve sektördeki rekabet gücünü artırmayı hedeflemektedir. Kullanıcıların ihtiyaçlarına uygun bir şekilde tasarlanmış olan bu uygulama, firma için önemli bir dijital varlık olacak ve seyahat hizmetlerindeki kalite ve verimliliği artıracaktır.
 
-Hazırlayanlar: 191307086 Abdelrahman Hasan, 191307041 - Muhammet Yusuf	Dinç, 201307014 -	Zafer	Küçükyıldız
+Hazırlayanlar: 191307086 Abdelrahman Hasan, 191307041 - Muhammet Yusuf	Dinç, 201307014 -	Zafer	Küçükyıldız<br/>
 Kocaeli Üniversitesi, Bilişim Sistemleri Mühendisliği
